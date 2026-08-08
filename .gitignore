@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 日志
+logs/
+*.log
+
+# IDE
+.idea/
+.vs/
+*.suo
+
+# 系统
+Thumbs.db
+.DS_Store
+
+# 临时
+tmp/
+temp/
