@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "name": "project_coordinate_records",
+  "crs": {"type": "name", "properties": {"name": "EPSG:4326"}},
+  "features": [
+    {"type":"Feature","id":"PC01","geometry":{"type":"Point","coordinates":[115.822327,39.675888]},"properties":{"name":"兜率寺","source_type":"survey","validation_status":"手簿记录，待原始记录检核","display_note":"用于对象匹配与空间核查"}},
+    {"type":"Feature","id":"PC02","geometry":{"type":"Point","coordinates":[115.816666,39.663868]},"properties":{"name":"东门石碑","source_type":"survey","validation_status":"手簿记录，待原始记录检核","display_note":"位于既有网页画布南界之外"}},
+    {"type":"Feature","id":"PC03","geometry":{"type":"Point","coordinates":[115.822395,39.675873]},"properties":{"name":"云梯石碑群","source_type":"survey","validation_status":"手簿记录，需核对对象与点号","display_note":"与兜率寺记录约相距 6 m"}},
+    {"type":"Feature","id":"PC04","geometry":{"type":"Point","coordinates":[115.822520,39.675300]},"properties":{"name":"永亨庵（永慈寺）","source_type":"inferred","validation_status":"仿射推算，参数与残差待补","display_note":"仅作候选位置展示"}},
+    {"type":"Feature","id":"PC05","geometry":{"type":"Point","coordinates":[115.822390,39.675740]},"properties":{"name":"华严洞","source_type":"inferred","validation_status":"仿射推算，参数与残差待补","display_note":"仅作候选位置展示"}},
+    {"type":"Feature","id":"PC06","geometry":{"type":"Point","coordinates":[115.807490,39.666520]},"properties":{"name":"云水洞石刻","source_type":"reference","validation_status":"POI 锚点，未作实测验证","display_note":"仅作参考位置"}}
+  ]
+}

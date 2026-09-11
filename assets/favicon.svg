@@ -1,0 +1,7 @@
+<!-- 修改说明：为专题页提供轻量本地图标，避免浏览器请求缺失资源。 -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#174f45"/>
+  <path d="M8 46 24 20l9 15 7-10 16 21Z" fill="#e8e0cd"/>
+  <circle cx="46" cy="17" r="6" fill="#b88a42"/>
+  <path d="M18 49h30" stroke="#b88a42" stroke-width="3"/>
+</svg>

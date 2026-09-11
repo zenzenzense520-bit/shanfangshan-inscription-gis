@@ -20,3 +20,15 @@ Thumbs.db
 # 临时
 tmp/
 temp/
+
+# 论文生成过程文件（仓库只保留提交稿与必要源文件）
+docs/paper/paper.docx
+docs/paper/figures/*.pdf
+scripts/paper_*.py
+scripts/paper_render.ps1
+scripts/paper.sh
+
+# 本地浏览器校验产物
+output/
+.playwright-cli/
+~$*.docx
