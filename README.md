@@ -41,9 +41,10 @@
 ├── data/                         # 原始资料与交换数据
 ├── docs/                         # 正式研究文档与论文
 ├── discuss/                      # 证据审查记录
-├── scripts/site.sh               # 站点检查与本地预览
-└── .github/workflows/pages.yml   # Pages 自动部署
+└── scripts/site.sh               # 站点检查与本地预览
 ```
+
+GitHub Pages 从 `main` 分支根目录发布。
 
 ## 本地检查
 
